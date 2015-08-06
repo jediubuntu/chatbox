@@ -1,4 +1,4 @@
 chatbox
 =======
 
-c++ based chat box 
+java based chat box 
